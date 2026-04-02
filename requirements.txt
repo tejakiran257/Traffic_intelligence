@@ -1,7 +1,8 @@
-streamlit
-opencv-python-headless
-numpy
-Pillow
-ultralytics
-gTTS
-requests
+streamlit==1.32.0
+numpy==1.26.4
+Pillow==10.2.0
+opencv-python-headless==4.9.0.80
+ultralytics==8.0.196
+torch==2.1.2
+gTTS==2.5.1
+requests==2.31.0
